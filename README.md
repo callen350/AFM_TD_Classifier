@@ -7,7 +7,7 @@ This GUI provides a lightweight interface for running a U-Net segmentation and a
 Requirements
 ------------
 - Python 3.10+
-- Packages: numpy 2.0+, pandas, scikit-image, matplotlib, joblib, tensorflow (or keras) 3.0+, pySPM. Tkinter is used for the GUI (usually included with Python on Windows).
+- Packages: numpy, pandas, scikit-image, matplotlib, joblib, tensorflow (or keras), pySPM. Tkinter is used for the GUI (usually included with Python on Windows).
 
 Quick install
 -------------
